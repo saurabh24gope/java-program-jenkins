@@ -9,5 +9,8 @@ public class Main{
         System.out.println("Hi");
         System.out.println("Sorav");
         System.out.println("Gope");
+
+        Student student= new Student();
+        student.sayHello();
     }
 }
